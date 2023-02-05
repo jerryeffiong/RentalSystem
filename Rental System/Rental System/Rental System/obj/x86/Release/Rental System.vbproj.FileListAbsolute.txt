@@ -1,0 +1,17 @@
+C:\Users\jerrysdsantos\Desktop\WORKing\A Final Year Project\Rental System\Rental System\Rental System\bin\Release\Rental System.exe.config
+C:\Users\jerrysdsantos\Desktop\WORKing\A Final Year Project\Rental System\Rental System\Rental System\obj\x86\Release\Rental System.vbprojResolveAssemblyReference.cache
+C:\Users\jerrysdsantos\Desktop\WORKing\A Final Year Project\Rental System\Rental System\Rental System\obj\x86\Release\Rental_System.frmBrand.resources
+C:\Users\jerrysdsantos\Desktop\WORKing\A Final Year Project\Rental System\Rental System\Rental System\obj\x86\Release\Rental_System.frmCustomer.resources
+C:\Users\jerrysdsantos\Desktop\WORKing\A Final Year Project\Rental System\Rental System\Rental System\obj\x86\Release\Rental_System.frmCustomerEntry.resources
+C:\Users\jerrysdsantos\Desktop\WORKing\A Final Year Project\Rental System\Rental System\Rental System\obj\x86\Release\Rental_System.frmIncome.resources
+C:\Users\jerrysdsantos\Desktop\WORKing\A Final Year Project\Rental System\Rental System\Rental System\obj\x86\Release\Rental_System.frmLogin.resources
+C:\Users\jerrysdsantos\Desktop\WORKing\A Final Year Project\Rental System\Rental System\Rental System\obj\x86\Release\Rental_System.frmMain.resources
+C:\Users\jerrysdsantos\Desktop\WORKing\A Final Year Project\Rental System\Rental System\Rental System\obj\x86\Release\Rental_System.frmMotor.resources
+C:\Users\jerrysdsantos\Desktop\WORKing\A Final Year Project\Rental System\Rental System\Rental System\obj\x86\Release\Rental_System.frmMotorList.resources
+C:\Users\jerrysdsantos\Desktop\WORKing\A Final Year Project\Rental System\Rental System\Rental System\obj\x86\Release\Rental_System.frmPassword.resources
+C:\Users\jerrysdsantos\Desktop\WORKing\A Final Year Project\Rental System\Rental System\Rental System\obj\x86\Release\Rental_System.frmPay.resources
+C:\Users\jerrysdsantos\Desktop\WORKing\A Final Year Project\Rental System\Rental System\Rental System\obj\x86\Release\Rental_System.frmRental.resources
+C:\Users\jerrysdsantos\Desktop\WORKing\A Final Year Project\Rental System\Rental System\Rental System\obj\x86\Release\Rental_System.frmReturn.resources
+C:\Users\jerrysdsantos\Desktop\WORKing\A Final Year Project\Rental System\Rental System\Rental System\obj\x86\Release\Rental_System.frmTransactionLog.resources
+C:\Users\jerrysdsantos\Desktop\WORKing\A Final Year Project\Rental System\Rental System\Rental System\obj\x86\Release\Rental_System.Resources.resources
+C:\Users\jerrysdsantos\Desktop\WORKing\A Final Year Project\Rental System\Rental System\Rental System\obj\x86\Release\Rental System.vbproj.GenerateResource.Cache
